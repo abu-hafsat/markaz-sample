@@ -1,0 +1,463 @@
+@media screen and (max-width : 768px) {
+
+h1 {
+    font-family: sans-serif;
+    text-align: center;
+    font-weight: 300;
+    margin-top: 50px;
+    margin-bottom: 20px;
+}
+#about {
+ text-align: center;
+ margin: 20px;
+}
+
+#hero-img {
+    height: 350px;
+    width: 950px;
+    margin: 20px;    
+}
+
+#image {
+    margin: 20px ;
+}
+
+#prgrms {
+    display: flex;
+    margin: 5px;
+}
+
+.prgm-img {
+    height: 50px;
+    width: 50px;
+    border: 1px solid black;
+    border-radius: 50px;
+    margin-top: 5px;
+}
+
+#prgrm-dscrpt {
+    margin: 5px;
+}
+
+.about{
+    font-size: 12px;
+    font-family: sans-serif;
+    font-weight: lighter;
+}
+
+h3 {
+    font-family: sans-serif;
+    margin: 30px 0px;
+    font-weight: lighter;
+}
+
+.img-spck {
+height: 300px;
+width: 540px;
+object-fit: cover;
+}
+
+
+.card-title{
+    color: ;
+    font-family: sans-serif;
+}
+
+#source {
+    background-color: ;
+    color:#000000;
+}
+
+.card-text {
+margin: 10px;
+}
+
+
+#heading {
+    text-align: center;
+    margin: 50px 0px;
+    font-family: sans-serif;
+    
+}
+
+.box-descrp {
+    margin-top: 15px; 
+    margin-left: 90px;
+   margin-bottom: 50px;
+}
+
+.box-1 {
+    margin: 0px auto;
+    max-width: 400px;
+    
+}
+
+.box-img {
+    width: 300px;
+
+}
+}
+
+
+ @media screen and (min-width: 768px) and (max-width: 992px) {
+
+    h1 {
+        font-family: sans-serif;
+        text-align: center;
+        font-weight: 300;
+        margin-top: 50px;
+        margin-bottom: 20px;
+    }
+
+    #about {
+        text-align: center;
+        margin: 20px;
+       }
+       
+       #hero-img {
+           height: 350px;
+           width: 950px;
+           margin: 20px;    
+       }
+
+       
+       .prgm-img {
+        height: 50px;
+        width: 50px;
+        border: 1px solid black;
+        border-radius: 50px;
+        margin-top: 5px;
+        }
+        
+        #prgrm-dscrpt {
+        margin-left: 20px;
+        }
+        
+        .about{
+        font-size: 12px;
+        font-family: sans-serif;
+        margin-top: 0px;
+        padding-top: 0px;
+        }
+
+#image {
+    margin: 20px ;
+}
+
+#prgrms {
+    display: flex;
+    margin: 20px;
+}
+
+#events{
+    margin-left: 50px;
+}
+
+h3 {
+    font-family: sans-serif;
+    margin: 30px 0px;
+}
+
+#cards{
+    margin: 20px auto;
+    max-width: 600px;
+}
+
+.img-spck {
+    height: 220px;
+    width: 180px;
+}
+
+.card-title{
+    color: ;
+    font-family: sans-serif;
+}
+
+#source {
+    background-color: ;
+    color:#000000;
+}
+
+.card-text {
+margin: 10px;
+}
+
+#heading{
+    text-align: center;
+    margin-top: 50px;
+    font-family: sans-serif;
+}
+
+#box{
+display: flex;
+margin: 20px auto;
+max-width: 800px;
+}
+
+.box-1{
+    margin: 30px;
+}
+
+.box-descrp{
+    width: 150px;
+    margin: 20px 40px;
+}
+ }
+
+
+ @media screen and (min-width: 992px) and (max-width: 1200px) {
+
+    #navbar-nav {
+         align-content: end;
+    }
+    h1 {
+        font-family: sans-serif;
+        text-align: center;
+        font-weight: 300;
+        margin-top: 50px;
+        margin-bottom: 10px;
+    }
+
+    #hero-section {
+        display: flex;
+        max-width: 900px;
+       margin: 20px auto;    
+    }
+
+       #hero-img {
+           height: 400px;
+           width: 50%; 
+           margin-top: 50px; 
+           margin-left: 10px;
+       }
+
+       #description {
+    width: 50%;
+    font-family: sans-serif;
+    margin-right: 10px;
+    
+   }
+   
+#image {
+margin: 20px ;
+}
+
+#prgrms {
+display: flex;
+margin: 20px;
+}
+
+h4 {
+    font-family: sans-serif;
+    font-weight: lighter;
+    
+}
+
+.prgm-img {
+height: 50px;
+width: 50px;
+border: 1px solid black;
+border-radius: 50px;
+margin-top: 5px;
+}
+
+#prgrm-dscrpt {
+margin-left: 20px;
+}
+
+.about{
+font-size: 12px;
+font-family: sans-serif;
+margin-top: 0px;
+padding-top: 0px;
+}
+
+h4{
+    margin-bottom: 0px;
+    padding-bottom: 0px;
+}
+
+h3 {
+font-family: sans-serif;
+margin: 30px 0px;
+}
+
+.img-spck {
+    height: 220px;
+    width: 180px;
+}
+
+.card-title{
+color: ;
+font-family: sans-serif;
+}
+
+#source {
+background-color: ;
+color:#000000;
+}
+
+.card-text {
+margin: 10px;
+}
+
+#all-cards {
+    display: flex;
+    max-width: 900px;
+    margin: 50px auto;
+}
+
+#events {
+    width: 400px;
+    margin-top: 20px;
+}
+
+#heading{
+    text-align: center;
+    font-family: sans-serif;
+}
+
+#box{
+display: flex;
+margin: 20px auto;
+max-width: 800px;
+}
+
+.box-1{
+    margin: 30px;
+}
+
+.box-descrp{
+    width: 150px;
+    margin: 20px 40px;
+}
+}
+
+@media screen and (min-width: 1200px) {
+
+    
+    #navbar-nav {
+        justify-content: end;
+   }
+   h1 {
+       font-family: sans-serif;
+       text-align: center;
+       font-weight: 300;
+       margin-top: 50px;
+       margin-bottom: 10px;
+   }
+
+   #hero-section {
+       display: flex;
+       max-width: 900px;
+      margin: 20px auto;    
+   }
+
+      #hero-img {
+          height: 400px;
+          width: 50%; 
+          margin-top: 50px; 
+          margin-left: 10px;
+      }
+
+      #description {
+   width: 50%;
+   font-family: sans-serif;
+   margin-right: 10px;
+   
+  }
+  
+#image {
+margin: 20px ;
+}
+
+#prgrms {
+display: flex;
+margin: 20px;
+}
+
+h4 {
+   font-family: sans-serif;
+   font-weight: lighter;
+   
+}
+
+.prgm-img {
+height: 70px;
+width: 70px;
+border: 1px solid black;
+border-radius: 50px;
+margin-top: 5px;
+}
+
+#prgrm-dscrpt {
+margin-left: 20px;
+}
+
+.about{
+font-size: 12px;
+font-family: sans-serif;
+margin-top: 0px;
+padding-top: 0px;
+}
+
+h4{
+   margin-bottom: 0px;
+   padding-bottom: 0px;
+}
+
+h3 {
+font-family: sans-serif;
+margin: 30px 0px;
+}
+
+.img-spck {
+   height: 220px;
+   width: 180px;
+}
+
+.card-title{
+color: ;
+font-family: sans-serif;
+}
+
+#source {
+background-color: ;
+color:#000000;
+}
+
+.card-text {
+margin: 10px;
+}
+
+#all-cards {
+   display: flex;
+   max-width: 900px;
+   margin: 50px auto;
+}
+
+#events {
+   width: 400px;
+   margin-top: 20px;
+}
+
+#heading{
+   text-align: center;
+   font-family: sans-serif;
+}
+
+#box{
+display: flex;
+margin: 20px auto;
+max-width: 800px;
+}
+
+.box-1{
+   margin: 30px;
+}
+
+.box-descrp{
+   width: 150px;
+   margin: 20px 40px;
+}
+}
